@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+.main{
+	width:400px;
+	background-color:lightblue;
+	border: 15px solid blue;
+	margin:20px;
+}
+.air{
+	width:300px;	
+	margin:50px;
+	/*height:100px;*/
+	background-color:lightblue;
+	border:1px solid black;
+}
+.air>p{
+	padding:20px
+}
