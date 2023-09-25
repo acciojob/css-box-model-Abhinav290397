@@ -1,11 +1,5 @@
 
 /* Your CSS Code here. */
-.main{
-	width:400px;
-	background-color:lightblue;
-	border: 15px solid blue;
-	margin:20px;
-}
 .air{
 	width:300px;	
 	margin:50px;
@@ -13,6 +7,13 @@
 	background-color:lightblue;
 	border:1px solid black;
 }
+.main{
+	width:400px;
+	background-color:lightblue;
+	border: 15px solid blue;
+	margin:20px;
+}
+
 .air>p{
 	padding:20px;
 	text-align:justify;
